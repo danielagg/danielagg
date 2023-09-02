@@ -2,7 +2,7 @@
 
 I'm Daniel Agg, a Full Stack Developer from the EU with over 7 years of experience in building web applications, with technologies such as .NET, Go, TypeScript/JavaScript with React/Astro/HTMX. I have expertise in designing and developing scalable architectures, mostly on Microsoft's Azure platform.
 
-[My Site](http://danielagg.com/) ◦ [LinkedIn](https://www.linkedin.com/in/danielagg/) ◦ [CV](https://www.danielagg.com/DanielAgg_CV.pdf) ◦ [Blog](https://blog.danielagg.com/) ◦ [Twitter](https://twitter.com/a13dan)
+<a href="http://danielagg.com/" target="_blank">Personal Site</a> ◦ <a href="https://www.linkedin.com/in/danielagg/" target="_blank">LinkedIn</a> ◦ <a href="https://www.danielagg.com/DanielAgg_CV.pdf" target="_blank">CV</a> ◦ <a href="https://blog.danielagg.com/" target="_blank">Blog</a> ◦ <a href="https://twitter.com/a13dan" target="_blank">Twitter</a>
 
 ---
 I'm a preacher for modular monoliths with vertical slicing, Domain Driven Design, true CI/CD with Trunk Based Development and feature flags, fitness functions, procedural code and compartmentalizing volatile parts of our applications, rather than religiously de-coupling by functionality.
