@@ -1,6 +1,8 @@
 # Hi there! 👋
 
-I'm Daniel Agg, a Full Stack Developer from the EU with over 7 years of experience in building web applications, with technologies such as .NET, Go, TypeScript/JavaScript with React/Astro/HTMX. I have expertise in designing and developing scalable architectures, mostly on Microsoft's Azure platform.
+I'm Daniel, a Senior Full Stack Developer based in Amsterdam, with more than 8 years of experience in crafting modern web applications, using technologies such as .NET, Go, Python, TypeScript, JavaScript with React, NextJS, Astro and HTMX.
+
+I specialize in architecting, designing and developing scalable software solutions on Microsoft Azure and AWS platforms.
 
 <a href="http://danielagg.com/" target="_blank">Personal Site</a> ◦ <a href="https://www.linkedin.com/in/danielagg/" target="_blank">LinkedIn</a> ◦ <a href="https://www.danielagg.com/DanielAgg_CV.pdf" target="_blank">CV</a> ◦ <a href="https://blog.danielagg.com/" target="_blank">Blog</a> ◦ <a href="https://twitter.com/a13dan" target="_blank">Twitter</a>
 
