@@ -4,7 +4,7 @@ I'm Daniel, a Senior Full Stack Developer based in Amsterdam, with more than 8 y
 
 I specialize in architecting, designing and developing scalable software solutions on Microsoft Azure and AWS platforms.
 
-<a href="http://danielagg.com/" target="_blank">Personal Site</a> ◦ <a href="https://www.linkedin.com/in/danielagg/" target="_blank">LinkedIn</a> ◦ <a href="https://www.danielagg.com/DanielAgg_CV.pdf" target="_blank">CV</a> ◦ <a href="https://blog.danielagg.com/" target="_blank">Blog</a> ◦ <a href="https://twitter.com/a13dan" target="_blank">Twitter</a>
+<a href="http://danielagg.com/" target="_blank">Personal Site</a> ◦ <a href="https://www.linkedin.com/in/danielagg/" target="_blank">LinkedIn</a> ◦ <a href="https://www.danielagg.com/blog" target="_blank">Blog</a> ◦ <a href="https://twitter.com/a13dan" target="_blank">Twitter</a>
 
 ---
 I advocate for modular monoliths with vertical slicing, Domain Driven Design, true CI/CD with Trunk Based Development and feature flags, fitness functions, procedural code and compartmentalizing volatile parts of our applications.
