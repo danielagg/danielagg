@@ -6,4 +6,4 @@ I've spent the past decade building enterprise software, mostly with .NET and Az
 
 These days I work where enterprise software meets AI infrastructure. I build .NET products that use models, retrieval, agents, and tools, and I work on the platform needed to run them in production. That includes evaluation, deployment, security, observability, scaling, and cost.
 
-[Personal site](https://www.danielagg.com/) · [LinkedIn](https://www.linkedin.com/in/danielagg/) · [Blog](https://www.danielagg.com/blog) · [X](https://x.com/a13dan)
+[Personal site](https://www.danielagg.com/) · [LinkedIn](https://www.linkedin.com/in/danielagg/) · [X](https://x.com/a13dan)
