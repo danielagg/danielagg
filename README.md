@@ -1,6 +1,6 @@
 # Hi, I'm Daniel
 
-**Senior .NET & Azure Engineer | Production AI Platforms & Products**
+**Senior Full Stack Developer | Production AI Platforms & Products**
 
 I've spent the past decade building enterprise software, mostly with .NET and Azure. My work has covered application architecture, identity, cloud infrastructure, delivery, and production operations. I previously architected and helped scale an event-driven B2B platform used by more than 20,000 suppliers.
 
